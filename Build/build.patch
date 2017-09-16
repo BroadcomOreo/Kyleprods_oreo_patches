@@ -559,4 +559,3 @@ diff -Naur a/build/soong/android/variable.go b/soong/android/variable.go
  	Treble                     *bool `json:",omitempty"`
  
  	VendorPath *string `json:",omitempty"`
-
